@@ -38,3 +38,15 @@ g++ binarygap.cpp
 
 ### C++ Helpful Links
 https://www.geeksforgeeks.org/cout-in-c/
+
+
+## Python
+Build and run the code
+```
+python3 binarygap.py
+```
+
+### Python Helpful Links
+https://www.geeksforgeeks.org/convert-integer-to-string-in-python/
+https://www.w3schools.com/python/python_casting.asp
+
