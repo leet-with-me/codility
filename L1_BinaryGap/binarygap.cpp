@@ -59,9 +59,10 @@ int solution(int N)
     bool first1Found = false;
     int maxCount = 0;
 
+    // Convert to binary
     while(N > 0) 
     {
-        // Convert to binary
+        // Get next binary digit
         int temp = N % 2;
 
         // DEBUG OUTPUT
