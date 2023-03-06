@@ -140,4 +140,8 @@ int main()
     result = solution(-1);
     printf("%i\n", result);
     assert(result == 0);
+
+    result = solution(513);
+    printf("%i\n", result);
+    assert(result == 0);
 }
